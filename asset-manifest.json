@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finflowWeb/static/css/main.2a9d80ca.css",
+    "main.js": "/finflowWeb/static/js/main.e0cbf51f.js",
+    "index.html": "/finflowWeb/index.html",
+    "main.2a9d80ca.css.map": "/finflowWeb/static/css/main.2a9d80ca.css.map",
+    "main.e0cbf51f.js.map": "/finflowWeb/static/js/main.e0cbf51f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9d80ca.css",
+    "static/js/main.e0cbf51f.js"
+  ]
+}
